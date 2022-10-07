@@ -1,0 +1,2 @@
+Prefix plugins/SumTest/example
+Plugin SumTest inputfile numbers.txt outputfile output.txt
